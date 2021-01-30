@@ -4,8 +4,6 @@
 # <h2 align="center">✨ Tech Stack ✨[![HitCount](http://hits.dwyl.com/DevJi92/DevJi92.svg)](http://hits.dwyl.com/DevJi92/DevJi92)</h2>
 
 <br>
-<br>
-
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
