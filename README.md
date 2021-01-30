@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevJi92&show_icons=true&theme=Default)](https://github.com/DevJi92/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevJi92&show_icons=true&theme=Default)](https://github.com/DevJi92/github-readme-stats)
+
 <!--
 **DevJi92/DevJi92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
