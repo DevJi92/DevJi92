@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <!--
 **DevJi92/DevJi92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
