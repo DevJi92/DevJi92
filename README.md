@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEE%20JI%20YEUN&fontSize=90)
 
 
- ### <p align="center"><h3>Hi there 👋</h3>[![HitCount](http://hits.dwyl.com/DevJi92/DevJi92.svg)](http://hits.dwyl.com/DevJi92/DevJi92)</p>
+ ### <h3 align="center">Hi there 👋[![HitCount](http://hits.dwyl.com/DevJi92/DevJi92.svg)](http://hits.dwyl.com/DevJi92/DevJi92)</h3>
 
 <br>
 <br>
