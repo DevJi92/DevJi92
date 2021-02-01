@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FAF4C0&height=300&section=header&text=LEE%20JI%20YEUN&fontSize=90)
 
 
-# <h2 align="center">✨ Tech Stack ✨[![HitCount](http://hits.dwyl.com/DevJi92/DevJi92.svg)](http://hits.dwyl.com/DevJi92/DevJi92)</h2>
+# <h2 align="center">✨ Tech Stack ✨[![HitCount](http://hits.dwyl.com/dev-Ji/dev-Ji.svg)](http://hits.dwyl.com/dev-Ji/dev-Ji)</h2>
 
 <br>
 
